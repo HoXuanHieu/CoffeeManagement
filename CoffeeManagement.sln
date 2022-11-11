@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAO", "DAO\DAO.csproj", "{CB2D6BC0-6423-4288-9F04-9030A1DB3115}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTO", "DTO\DTO.csproj", "{429E62A9-500B-4995-9E03-D0D8936B28FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeManagementWinform", "CoffeeManagementWinform\CoffeeManagementWinform.csproj", "{8672B283-6806-4A17-BD39-6A8EC9CE37FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB2D6BC0-6423-4288-9F04-9030A1DB3115}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB2D6BC0-6423-4288-9F04-9030A1DB3115}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB2D6BC0-6423-4288-9F04-9030A1DB3115}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB2D6BC0-6423-4288-9F04-9030A1DB3115}.Release|Any CPU.Build.0 = Release|Any CPU
+		{429E62A9-500B-4995-9E03-D0D8936B28FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{429E62A9-500B-4995-9E03-D0D8936B28FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{429E62A9-500B-4995-9E03-D0D8936B28FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{429E62A9-500B-4995-9E03-D0D8936B28FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8672B283-6806-4A17-BD39-6A8EC9CE37FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8672B283-6806-4A17-BD39-6A8EC9CE37FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8672B283-6806-4A17-BD39-6A8EC9CE37FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8672B283-6806-4A17-BD39-6A8EC9CE37FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E36F81E-93EB-4D9D-9133-1EBC91997944}
+	EndGlobalSection
+EndGlobal
